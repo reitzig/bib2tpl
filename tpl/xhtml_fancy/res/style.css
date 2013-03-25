@@ -1,0 +1,84 @@
+h2.publist_hl {
+}
+
+h3.publist_grouphl span.[id] {
+  color : #444444;
+  border-color : #444444;
+}
+
+h3.publist_grouphl span.[id] {
+  color : #111111;
+  border-color : #111111;
+}
+
+h3.publist_grouphl span.publist_groupcount {
+  font-size : small;
+}
+
+div.publist_groupdiv {
+}
+
+div.publist_groupdiv ul {
+  list-style : none outside none;
+  margin : -5px 0px 0px 0px;
+  padding : 2px 2px 0px 10px;
+}
+
+div.publist_groupdiv ul li {
+  margin : 0px 0px 15px 10px;
+}
+
+span.publist_author {
+}
+
+span.publist_title {
+  font-weight : bold;
+}
+
+span.publist_rest {
+  font-style : italic;
+}
+
+span.publist_date {
+}
+
+div.publist_links {
+  font-size : small;
+  margin-left : 10px;
+}
+
+div.publist_popbox {
+  display : none;
+  width : 600px;
+
+  border : dotted 1px #555555;
+
+  margin : 10px;
+  padding : 7px;
+  text-align : right;
+}
+
+div.publist_popbox pre {
+  background : #DDDDDD;
+  border : solid 1px #555555;
+
+  margin-bottom : 5px;
+  padding : 5px;
+  text-align : left;
+}
+
+div.publist_popbox span {
+}
+
+a, span.publist_jslink {
+  cursor : pointer;
+  text-decoration : none;
+  color : #A0A0A0;
+  border-bottom : dotted 1px #A0A0A0;
+  margin : 0px 3px 0px 3px;
+}
+
+a:hover, span.publist_jslink:hover {
+  color : #555555;
+  border-bottom : solid 1px #555555;
+}

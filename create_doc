@@ -1,0 +1,3 @@
+#!/bin/bash
+rm -rf doc
+phpdoc -f src/*.php,src/*.inc.php -t doc/ -dn bib2tpl -dc bib2tpl -o "HTML:Smarty:HandS" -s on
